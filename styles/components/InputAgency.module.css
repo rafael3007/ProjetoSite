@@ -1,0 +1,25 @@
+.InputAgencyContainer {
+    display: flex;
+    padding: 1rem;
+
+}
+
+.InputAgencyUniorg {
+    width: 30rem;
+    padding-left: 1rem;
+} 
+
+.InputAgencyName {
+    width: 40rem;
+    padding-left: 1rem;
+}
+
+.InputAgencyAdress {
+    width: 43rem;
+    padding-left: 1rem;
+}
+
+.InputAgencyCity {
+    width: 27rem;
+    padding-left: 1rem;
+}

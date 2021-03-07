@@ -1,0 +1,19 @@
+.AddEquipContainerForm {
+    padding: 2rem;
+}
+
+.AddEquipFooter {
+    text-align: center;
+    padding: 15px 20px;
+}
+
+
+.AddEquipAdd{
+    margin: 1rem;
+}
+
+
+.AddEquipCancel{
+    width: 90px;
+
+}
